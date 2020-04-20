@@ -1,2 +1,2 @@
-# responsive-table-
+# BOOTSRAP
 table using bootstrap and html
